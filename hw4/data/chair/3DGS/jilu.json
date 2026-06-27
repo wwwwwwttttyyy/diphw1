@@ -1,0 +1,7 @@
+{
+  "status": "completed",
+  "error": null,
+  "wall_seconds": 50.60578516500001,
+  "peak_cuda_allocated_gib": 0.18702173233032227,
+  "peak_cuda_reserved_gib": 0.26171875
+}

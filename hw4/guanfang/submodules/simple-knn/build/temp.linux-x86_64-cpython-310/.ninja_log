@@ -1,0 +1,4 @@
+# ninja log v7
+5	14865	1782556637168374300	/mnt/d/codes/DigitalImageProcessing/codes/hw4/guanfang/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	43be53b9e2ae0ef7
+3	22540	1782556637166374200	/mnt/d/codes/DigitalImageProcessing/codes/hw4/guanfang/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	c73248c371bb4c00
+7	42194	1782556637170375500	/mnt/d/codes/DigitalImageProcessing/codes/hw4/guanfang/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	d97e2cc7ce8d8f2c

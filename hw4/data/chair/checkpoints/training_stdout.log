@@ -1,0 +1,10 @@
+Using device: cuda
+init_scales tensor(0.1929) tensor(0.7889)
+Resuming from checkpoint: data/chair/checkpoints/checkpoint_000020.pt
+Starting training...
+Training on 100 images from epoch 21 through 199
+Debug images will be saved every 1 epochs
+Using 4 debug samples
+Training completed!
+Generating rendering visualization...
+Video saved to: data/chair/checkpoints\debug_rendering.mp4

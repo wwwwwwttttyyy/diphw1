@@ -1,0 +1,1 @@
+Namespace(sh_degree=3, source_path='/mnt/d/codes/DigitalImageProcessing/codes/hw4/data/chair', model_path='/mnt/d/codes/DigitalImageProcessing/codes/hw4/data/chair/3DGS', images='images_rgb', depths='', resolution=4, white_background=False, train_test_exp=False, data_device='cpu', eval=False)

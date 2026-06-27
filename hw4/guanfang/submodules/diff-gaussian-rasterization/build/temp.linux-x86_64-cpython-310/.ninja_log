@@ -1,0 +1,6 @@
+# ninja log v7
+14	22285	1782556729101462200	/mnt/d/codes/DigitalImageProcessing/codes/hw4/guanfang/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/ext.o	d4edff3c13a74d9c
+16	42482	1782556729103464300	/mnt/d/codes/DigitalImageProcessing/codes/hw4/guanfang/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/rasterize_points.o	65b5d240e4d1409d
+6526	14081	1782556876770554100	/mnt/d/codes/DigitalImageProcessing/codes/hw4/guanfang/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/forward.o	8d1e2cd333c152f9
+6524	14109	1782556876768552800	/mnt/d/codes/DigitalImageProcessing/codes/hw4/guanfang/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/backward.o	e18642d270acc38a
+6752	23224	1782557021379171100	/mnt/d/codes/DigitalImageProcessing/codes/hw4/guanfang/submodules/diff-gaussian-rasterization/build/temp.linux-x86_64-cpython-310/cuda_rasterizer/rasterizer_impl.o	830bfdba1fd64963

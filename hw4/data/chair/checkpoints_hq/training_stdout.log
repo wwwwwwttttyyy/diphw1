@@ -1,0 +1,6 @@
+Using device: cuda
+init_scales tensor(0.1103) tensor(0.4960)
+Starting training...
+Training on 100 images from epoch 0 through 99
+Debug images will be saved every 5 epochs
+Using 4 debug samples

@@ -1,0 +1,9 @@
+Using device: cuda
+init_scales tensor(0.1725) tensor(0.7052)
+Starting training...
+Training on 100 images from epoch 0 through 99
+Debug images will be saved every 5 epochs
+Using 4 debug samples
+Training completed!
+Generating rendering visualization...
+Video saved to: data/chair/xunlian2\xiaoguo.mp4
